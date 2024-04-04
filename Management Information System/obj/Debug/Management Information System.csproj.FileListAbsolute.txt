@@ -1,0 +1,31 @@
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\bin\Debug\Management Information System.exe.config
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\bin\Debug\Management Information System.exe
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\bin\Debug\Management Information System.pdb
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management_Information_System.Form1.resources
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management_Information_System.Form3.resources
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management_Information_System.Form4.resources
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management_Information_System.Form5.resources
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management_Information_System.Properties.Resources.resources
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.exe
+C:\Users\user\Source\Repos\nutccsieandy\Management-Information-System-Desktop\Management Information System\obj\Debug\Management Information System.pdb
+C:\Users\user\Desktop\(2.0)Management Information System\bin\Debug\Management Information System.exe.config
+C:\Users\user\Desktop\(2.0)Management Information System\bin\Debug\Management Information System.exe
+C:\Users\user\Desktop\(2.0)Management Information System\bin\Debug\Management Information System.pdb
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management_Information_System.Form1.resources
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management_Information_System.Form3.resources
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management_Information_System.Form4.resources
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management_Information_System.Form5.resources
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management_Information_System.Properties.Resources.resources
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.exe
+C:\Users\user\Desktop\(2.0)Management Information System\obj\Debug\Management Information System.pdb
+C:\Users\drche\Downloads\Final_1110832098\Final_1110832098\Management Information System\Management Information System\obj\Debug\Management Information System.csproj.AssemblyReference.cache
+C:\Users\drche\Downloads\Final_1110832098\Final_1110832098\Management Information System\Management Information System\obj\Debug\Management Information System.exe
+C:\Users\drche\Downloads\Final_1110832098\Final_1110832098\Management Information System\Management Information System\obj\Debug\Management Information System.pdb
