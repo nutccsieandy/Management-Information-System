@@ -8,4 +8,5 @@ This is a grade Management System using Winform System(C#).
 ### 2.程式設計:資工五乙 陳德恩、資工四乙 劉依華
 ### 3.文件與UI/UX設計:資工四乙 張家瑋
 ### 詳細說明請看PPT簡報檔
+### 資料庫匯入參考方法:https://learn.microsoft.com/zh-tw/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms
 
